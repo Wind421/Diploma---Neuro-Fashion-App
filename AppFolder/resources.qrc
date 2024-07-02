@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>attr_cloth.csv</file>
+    <file>category_cloth.csv</file>
+    <file>captured_image.jpg</file>
+    <file>cat_resnet34_export.pkl</file>
+    <file>attr_resnet50_export.pkl</file>
+    <file>voice.mp3</file>
+    <file>itog.mp3</file>
+    <file>exit_but.mp3</file>
+    <file>you_exit.mp3</file>
+    <file>des_but.mp3</file>
+    <file>neuro_start.mp3</file>
+    <file>last_des.mp3</file>
+  </qresource>
+</RCC>
